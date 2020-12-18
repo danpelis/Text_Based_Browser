@@ -37,7 +37,7 @@ deactivate
 ## Execution:
 To run the program simply enter:
 ```
-python browser.py tabs
+python browser.py
 ```
 If you are not using the virtual environment, you must specify **"python3"** in the above command.
 
