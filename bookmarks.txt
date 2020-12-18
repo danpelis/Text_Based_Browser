@@ -1,0 +1,4 @@
+https://pypi.org
+https://docs.python.org
+https://twitter.com
+https://docs.python.org/3/
