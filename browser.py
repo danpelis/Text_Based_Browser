@@ -61,7 +61,7 @@ def search(url, dir, filename, support_tags):
     if not is_valid_directory(dir):
         Path(dir).mkdir(parents=True, exist_ok=True)
 
-    headers = {'user-agent': 'tbb/0.0.1'}
+    headers = {'user-agent': 'Mozilla/5.0'}
     try:
         r = requests.get(url, headers=headers)
     except:
@@ -102,12 +102,17 @@ def main():
                 break
 
             elif command == 'back':
+
                 try:
                     last = history.pop()
+                    if 'tabs\\' in last:
+                        previous_url = last[5:]
                     previous = last
                 except:
                     print('No Previous Sites')
                     continue
+                 
+                previous_url = to_url(previous_url)
                 f = open(last, "r", encoding='utf-8')
                 parse_response(f.read(), support_tags)
                 f.close()
