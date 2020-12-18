@@ -203,6 +203,11 @@ def main():
                         url = url.replace('/', r'.')
                         filename = os.path.join(dir, url)
 
+                        if previous:
+                            history.append(previous)
+                        previous = filename
+                        previous_url = url
+
                         if(Path(filename).exists()):
                             f = open(filename, "r", encoding='utf-8')
                             data = f.read()
