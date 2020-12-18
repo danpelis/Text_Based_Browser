@@ -78,10 +78,8 @@ def search(url, dir, filename, support_tags):
 def main():
     
     init() # Starts colorama
-    dir = './' # Where tabs will be stored
+    dir = 'tabs' # Where tabs will be stored
 
-    if len(sys.argv) > 1:
-        dir = sys.argv[1]
     if os.path.isdir(dir):
         shutil.rmtree(dir)
 
