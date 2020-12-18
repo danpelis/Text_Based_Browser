@@ -1,0 +1,942 @@
+﻿
+<!DOCTYPE html>
+<html xml:lang="en-US"
+      lang="en-US"
+      role="document">
+<head>
+    <base href="/witness" />
+    <link rel="preload" href="/css/tenants/witness/style.min.css?v=-KmqiULBAJyc96yOQREo8EZyVTBvolvEAGXzXguojHQ" as="style" />
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-title" content="News24">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<meta name="msapplication-navbutton-color" content="red">
+<meta name="msapplication-TileColor" content="red">
+<meta name="msapplication-TileImage" content="~/images/pwa/news24/mstile-150x150.png">
+
+<!-- Pinned Sites  -->
+<meta name="application-name" content="News24">
+<meta name="msapplication-tooltip" content="News24. Breaking News First">
+<meta name="msapplication-starturl" content="/">
+<!-- Tap highlighting  -->
+<meta name="msapplication-tap-highlight" content="no">
+
+<!-- iOS  -->
+<link rel="apple-touch-icon" sizes="120x120" href="/images/pwa/news24/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/pwa/news24/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/images/pwa/news24/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/pwa/news24/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" href="/images/pwa/news24/apple-touch-icon-180x180.png">
+
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1536x2048.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/1668x2224.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="/images/pwa/news24/2048x2732.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+
+
+<meta name="theme-color" content="#ffffff" />
+<link rel="manifest" href="/manifests/news24.json?v=XFGPkp3KGGiaPcGwQZdznKxiJ0O5NjsN_vA5WqYQCeQ" />
+    
+
+<!--SEO Meta-->
+<title>KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday | Witness</title>
+<meta name="articleid" content="0303f62b-46e2-4979-b364-b2c85700bc47" />
+    <meta name="ad:name" content="/8900/24.com/web/" />
+    <meta name="ad:zone" content="lifestyle/planet" />
+    <meta name="description" content="It&#x2019;s not every day your neighbourhood crocodile turns 120 years old, and so Crocworld Conservation Centre on the KZN South Coast gave their resident Nile crocodile a reason to smile on Wednesday, December 16, with a fitting birthday bash." />
+    <meta name="keywords" content="" />
+    <meta name="accreditation" content="The Witness" />
+    <meta name="author" content="" />
+    <meta name="articletitle" content="KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday" />
+    <meta name="permatitle" content="kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" />
+    <meta name="sophiaccess" content="free access" />
+    <meta name="creditline" content="The Witness" />
+    <meta name="byline" content="" />
+    <meta name="ad:keyword:artid" content="0303f62b-46e2-4979-b364-b2c85700bc47" />
+    <meta name="ad:keyword:Companies" content="crocworld conservation centre" />
+    <meta name="ad:keyword:Places" content="south coast, kzn, pietermaritzburg, kwazulu-natal" />
+    <meta name="ad:keyword:Topics" content="120 year old crocodile, nature, crocodile, wildlife, henry the crocodile" />
+    <meta name="ad:keyword:accreditation" content="the witness" />
+    <meta name="publisheddate" content="2020-12-17T09:18:46.733Z" />
+    <meta name="datemodified" content="2020-12-17T09:29:57.357Z" />
+    <meta name="pageviewtype" content="article_view" />
+    <meta name="pagetype" content="article" />
+    <meta name="visitortype" content="Anonymous" />
+    <meta name="isloggedin" content="false" />
+    <meta name="sitename" content="Witness" />
+    <meta name="version" content="1.1.20344.4" />
+    <meta name="env" content="prod" />
+    <meta property="og:site_name" content="Witness" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:section" content="Witness" />
+    <meta property="og:image" content="https://cdn.24.co.za/files/Cms/General/d/9601/963f91d3a92f439dbd593719c1a9683c.jpg" />
+    <meta property="og:image:secure_url" content="https://cdn.24.co.za/files/Cms/General/d/9601/963f91d3a92f439dbd593719c1a9683c.jpg" />
+    <meta property="og:image:height" content="533" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:alt" content="Henry the oldest known Nile crocodile in captivity." />
+    <meta property="og:title" content="KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday | Witness" />
+    <meta property="og:description" content="It&#x2019;s not every day your neighbourhood crocodile turns 120 years old, and so Crocworld Conservation Centre on the KZN South Coast gave their resident Nile crocodile a reason to smile on Wednesday, December 16, with a fitting birthday bash." />
+
+<link rel="canonical" href="https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" />
+
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="witness">
+<meta name="breadcrumb" content="witness/lifestyle/planet">
+<meta name="commit" content="1d4e0fc5da85ce40fb49e4ce38cca2b344cc5e4b">
+<meta name="platform" content="web">
+
+<script type="text/javascript">
+    za24_AdSite = '/8900/24.com/web/';
+    za24_AdZone = 'lifestyle/planet';
+</script>
+
+    
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=5">
+
+        <link rel="preload" as="font" href="/fonts/regular/proximanova-regular-webfont.woff2" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" as="font" href="/fonts/bold/proximanova-bold-webfont.woff2" type="font/woff2" crossorigin="anonymous" />
+        <link rel="preload" as="font" href="/fonts/regular/proximanova-regular-webfont.woff" type="font/woff" crossorigin="anonymous" />
+        <link rel="preload" as="font" href="/fonts/bold/proximanova-bold-webfont.woff" type="font/woff" crossorigin="anonymous" />
+
+        <link rel="preconnect" href="https://log.outbrainimg.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.cdn.sophi.io" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://collector.brandmetrics.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://t.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://collector.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://za-ssl.effectivemeasure.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://adservice.google.co.za" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://tpc.googlesyndication.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://csi.gstatic.com" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagservices.com" crossorigin="anonymous" />
+
+        <script defer src="/js/modules/lazy.min.js?v=S9JdALginDXmt_P7J0IV1wG-i9wvxAjhc8WZjobMbFo" type="module"></script>
+        <script defer src="/vendors/intersection-observer.js?v=XaG33maJyl870UK5gQRQ0w8T_yl4Guhekdw0YDdi00w" type="module"></script>
+    
+
+    
+    <link rel="stylesheet" href="/css/tenants/witness/style.min.css?v=-KmqiULBAJyc96yOQREo8EZyVTBvolvEAGXzXguojHQ" />
+    <link rel="stylesheet" href="/css/tenants/news24/print.min.css?v=0IJNK3pA2ZQHVgnNye2CF-Op5QdSOzeM079I0MyTZb4" media="print" />
+
+    <link rel="icon" type="image/png" href="/images/tenants/witness/favicon-bg.png">
+    
+    
+        <link rel="amphtml" href="/amp/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217">
+    
+
+
+    
+        <!--Scripts: Head-->
+        <!--Scripts: GTM-->
+<!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5FF4NNT');</script> <!-- End Google Tag Manager -->        <!--Scripts: Narratiive-->
+<!-- BEGIN NARRATIIVE CODE --> <!-- COPYRIGHT NARRATIIVE --> <!-- BY ADDING THIS TAG TO YOUR WEBSITE YOU AGREE TO ALL POLICIES AND TERMS AVAILABLE AT WWW.NARRATIIVE.COM --> <script type="text/javascript">    (function(t,r,a,c,k,n,o,w){t['em_ns']=k;w=1*new Date();t[k]=t[k]||function(){      (t[k].q=t[k].q||[]).push(arguments)},t[k].t=w;n=r.createElement(a);n.async=1;      n.src=c+'/tag'+(t.addEventListener&&'.'||'_.')+'js?'+parseInt(w/1e9, 10);      o=r.getElementsByTagName(a)[0];o.parentNode.insertBefore(n,o)    })(window,document,'script','https://t.effectivemeasure.net','_em'); </script> <!-- END NARRATIIVE CODE -->  <script type="text/javascript">     (function () {         var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;         em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);     })(); </script>
+    
+
+    
+</head>
+<body>
+    <div data-ad="true" data-adname="retailbar" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[200,400]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;retailbar&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="retailbar" class="retail-ad pos-fixed adblock"></div>
+    <div data-ad="true" data-adname="wallpaper" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[2,1]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;wallpaper&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="wallpaper" class="pos-fixed adblock"></div>
+
+    
+        <!--Scripts: Body-->
+        <!--Scripts: GTM-->
+<!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FF4NNT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+        
+
+
+    <div class="brandbar">
+        <div class="wrapper">
+            <ul class="brandbar__links">
+                            <li>
+                                <a data-event-name="site_link" data-event-container="banner" href="news24" target="_self">
+                                    <span>News24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.careers24.com" target="_blank" rel="noopener noreferrer">
+                                    <span>Careers24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.property24.com/?utm_source=news24.com&amp;utm_medium=referral&amp;utm_campaign=news24-link" target="_blank" rel="noopener noreferrer">
+                                    <span>Property24</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.autotrader.co.za/" target="_blank" rel="noopener noreferrer">
+                                    <span>Autotrader</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://superbalist.com" target="_blank" rel="noopener noreferrer">
+                                    <span>Superbalist</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-event-name="partner_link" data-event-container="banner" href="https://www.olx.co.za?invite= news24-za_news24-footer&amp;utm_source=news24-za&amp;utm_ medium=free&amp;utm_content= news24_footer&amp;utm_ campaign=news24-footer" target="_blank" rel="noopener noreferrer">
+                                    <span>OLX</span>
+                                </a>
+                            </li>
+            </ul>
+
+            <div id="auth-section">
+                <ul class="auth profile--container">
+                    
+                    
+                        <li class="auth__subscribe">
+                            <a id="subscribe-button" data-event-name="subscribe_link" data-event-container="banner" href="/subscription">
+                                <span>Subscribe</span>
+                            </a>
+                        </li>
+                    
+                    
+                        <li class="auth__login">
+                            <a return-url data-event-name="login_link" data-event-container="banner" href="/auth/signin">
+                                <span>Sign in</span>
+                            </a>
+                        </li>
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script type="module">
+        import firebase from './js/modules/auth/firebase.min.js?v=1.1.20344.4';
+        new firebase('tf_articles');
+    </script>
+
+    
+
+    <div data-ad="true" data-adname="transitional" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[10,10]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;transitional&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="transitional" class="transitional-ad pos-fixed adblock"></div>
+    <div data-ad="true" data-adname="LB_sponsorship" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[728,90],[970,90],[980,90],[970,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;LB_sponsorship&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="LB_sponsorship" class="ad-expand adblock"></div>
+
+    <div id="main-content" class="wrapper" role="main">
+            
+
+
+<!-- Header -->
+<header class="header" role="banner">
+    <div class="header-container">
+        
+            <a href="witness" class="header__logo witness" aria-label="Logo Header Element" data-event-name="home_link" data-event-container="header">
+                <img src="https://cdn.24.co.za/files/Cms/General/d/7561/5cee99d32dc4406d8876159f810b10ee.svg" alt="" class="tf-img" width="280" height="68"/>
+            </a>
+        
+        <div class="header-container--content">
+            
+                <form method="get" class="header__search" role="search" action="/witness/search">
+                    <input type="text" name="query" class="tf-search-box" placeholder="Search" id="search" aria-label="Search" required />
+                    
+                    <input type="submit" value="" aria-label="search button" role="button" data-event-name="search_query" />
+                </form>
+            
+            
+                
+
+    <section class="social-links">
+        <div class="social-links-container">
+            <ul class="social-control">
+                    <li class="social-item facebook">
+                        <a href="https://www.facebook.com/witnesskzn/" data-share="facebook" title="Facebook" aria-label="Facebook Social Share" target="_blank" class="social-item-link action" data-event-container="Social" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="/images/icons/share/facebook.svg" class="social-item-img" alt="Facebook" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/witnesskzn" data-share="twitter" title="Twitter" aria-label="Twitter Social Share" target="_blank" class="social-item-link action" data-event-container="Social" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="/images/icons/share/twitter.svg" class="social-item-img" alt="Twitter" width="31" height="31"/>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+            
+            
+                <!-- Weather Widget -->
+<link defer rel="stylesheet" href="/css/tenants/witness/widgets/weather/index.min.css?v=LZO7O5LBSd7ZhQz5ddIbuj5EU62KTdB7BKTpvos807c" />
+<a data-event-name="weather_link" href="/profile/weather">
+    <div class="weather-widget weather-widget--locked">
+        <div class="weather-widget__image">
+        </div>
+        <div class="weather-widget__data">
+            <p class="weather-widget__data--date">Friday, 18 December</p>
+            <span class="weather-widget__data--city">Add location</span>
+        </div>
+    </div>
+</a>
+
+
+            
+        </div>
+    </div>
+    
+
+<!-- Nav Header -->
+<nav class="header__nav" role="navigation">
+    <ul>
+            <li class=" ">
+                <a href="witness" aria-label="Latest" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness" data-url="witness" class="nav-item" target="_self">Latest</a>
+            </li>
+            <li class="sponsored ">
+                <a href="forsubscribers" aria-label="For Subscribers" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="forsubscribers" data-url="forsubscribers" class="nav-item" target="_self">For Subscribers</a>
+            </li>
+            <li class=" has-children">
+                <a href="witness/news" aria-label="News" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/news" data-url="witness/news" class="nav-item" target="_self">News</a>
+                        <ul class="sub-nav">
+                                <li>
+                                    <a href="witness/news/kzn" aria-label="KZN News" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/news/kzn" target="_self">KZN News</a>
+                                </li>
+                                <li>
+                                    <a href="witness/news/pietermaritzburg" aria-label="Pietermaritzburg" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/news/pietermaritzburg" target="_self">Pietermaritzburg</a>
+                                </li>
+                                <li>
+                                    <a href="witness/news/durban" aria-label="Durban" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/news/durban" target="_self">Durban</a>
+                                </li>
+                                <li>
+                                    <a href="witness/news/business" aria-label="Business" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/news/business" target="_self">Business</a>
+                                </li>
+                        </ul>
+            </li>
+            <li class=" has-children">
+                <a href="witness/opinion" aria-label="Opinion" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/opinion" data-url="witness/opinion" class="nav-item" target="_self">Opinion</a>
+                        <ul class="sub-nav">
+                                <li>
+                                    <a href="witness/opinion/columnists" aria-label="Columnists" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/opinion/columnists" target="_self">Columnists</a>
+                                </li>
+                                <li>
+                                    <a href="witness/opinion/letters" aria-label="Letters" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/opinion/letters" target="_self">Letters</a>
+                                </li>
+                                <li>
+                                    <a href="witness/opinion/cartoons" aria-label="Cartoon" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/opinion/cartoons" target="_self">Cartoon</a>
+                                </li>
+                        </ul>
+            </li>
+            <li class=" has-children">
+                <a href="witness/politics" aria-label="Politics" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/politics" data-url="witness/politics" class="nav-item" target="_self">Politics</a>
+                        <ul class="sub-nav">
+                                <li>
+                                    <a href="witness/politics/kznmunicipal" aria-label="KZN municipal" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/politics/kznmunicipal" target="_self">KZN municipal</a>
+                                </li>
+                                <li>
+                                    <a href="witness/politics/kznprovincial" aria-label="KZN provincial" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/politics/kznprovincial" target="_self">KZN provincial</a>
+                                </li>
+                                <li>
+                                    <a href="witness/politics/general" aria-label="General" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/politics/general" target="_self">General</a>
+                                </li>
+                        </ul>
+            </li>
+            <li class=" has-children">
+                <a href="witness/sport" aria-label="Sport" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/sport" data-url="witness/sport" class="nav-item" target="_self">Sport</a>
+                        <ul class="sub-nav">
+                                <li>
+                                    <a href="witness/sport/communitysport" aria-label="Community Sport" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/sport/communitysport" target="_self">Community Sport</a>
+                                </li>
+                                <li>
+                                    <a href="witness/sport/racing" aria-label="Racing" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/sport/racing" target="_blank" rel="noopener noreferrer">Racing</a>
+                                </li>
+                        </ul>
+            </li>
+            <li class=" has-children">
+                <a href="witness/lifestyle" aria-label="Lifestyle" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle" data-url="witness/lifestyle" class="nav-item" target="_self">Lifestyle</a>
+                        <ul class="sub-nav">
+                                <li>
+                                    <a href="witness/lifestyle/arts" aria-label="Arts" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle/arts" target="_self">Arts</a>
+                                </li>
+                                <li>
+                                    <a href="witness/lifestyle/entertainment" aria-label="Entertainment" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle/entertainment" target="_self">Entertainment</a>
+                                </li>
+                                <li>
+                                    <a href="witness/lifestyle/travel" aria-label="Travel" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle/travel" target="_self">Travel</a>
+                                </li>
+                                <li>
+                                    <a href="witness/lifestyle/planet" aria-label="Planet" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle/planet" target="_self">Planet</a>
+                                </li>
+                                <li>
+                                    <a href="witness/lifestyle/puzzles" aria-label="Puzzles" data-event-container="submenu" data-event-name="category_link" data-event-breadcrumb="witness/lifestyle/puzzles" target="_blank" rel="noopener noreferrer">Puzzles</a>
+                                </li>
+                        </ul>
+            </li>
+            <li class=" ">
+                <a href="digitalpublications" aria-label="E-editions" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="digitalpublications" data-url="digitalpublications" class="nav-item" target="_blank" rel="noopener noreferrer">E-editions</a>
+            </li>
+            <li class=" ">
+                <a href="witness/supplements/pietermaritzburg-girls-high-school-celebrates-100-years-20201127" aria-label="Supplements" data-event-container="menu" data-event-name="category_link" data-event-breadcrumb="witness/supplements/pietermaritzburg-girls-high-school-celebrates-100-years-20201127" data-url="witness/supplements/pietermaritzburg-girls-high-school-celebrates-100-years-20201127" class="nav-item" target="_self">Supplements</a>
+            </li>
+    </ul>
+</nav>
+
+<script type="module">
+    import mobilemenu from './js/modules/mobilemenu.min.js?v=1.1.20344.4';
+    new mobilemenu('.header__nav');
+</script>
+
+
+
+</header>
+
+        <div data-ad="true" data-adname="LB1" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[728,90],[970,90],[980,90],[970,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;LB1&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="LB1" class="ad-expand adblock"></div>
+        
+
+        <div class="container">
+            
+
+
+
+
+<meta name="locked" content="false" />
+
+
+
+
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "witness"
+        },
+        "headline": "KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday",
+"image": { "@type": "ImageObject", "url": "https://cdn.24.co.za/files/Cms/General/d/9601/963f91d3a92f439dbd593719c1a9683c.jpg" },        "datePublished": "2020-12-17T11:18:46",
+        "dateModified": "2020-12-17T11:29:57",
+        "publisher": {
+        "@type":"Organization",
+        "name":"witness",
+        "logo":{
+        "@type": "ImageObject",
+        "url": "https://cdn.24.co.za/files/Cms/General/d/7561/5cee99d32dc4406d8876159f810b10ee.svg"
+        }
+        },
+        "thumbnailUrl": "https://cdn.24.co.za/files/Cms/General/d/9602/2d8e15a2dd234637a1cca6fa2a70f657.jpg",
+        "isAccessibleForFree": "False",
+        "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": "False",
+        "cssSelector": "article-locked"
+        }
+        }
+    </script>
+
+
+<link rel="stylesheet" href="/css/tenants/witness/pages/articledefault/index.min.css?v=8f3iAWWMkKweVacLm9hC6ZRvCIS52Pn-gBYgDFhDc9s" />
+
+
+
+
+<div class="article tf-lhs-col">
+        <div class="article--top-bar">
+            
+            
+            <p class="article__date">17 Dec</p>
+            <div class="article--top-bar-right">
+    
+        <div class="bookmark">
+        <a class="bookmark--add show" id="add-bookmark" data-event-name="bookmarks_add" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="bookmark" href="/profile/bookmarks?returnurl=https%3A%2F%2Fwww.news24.com%2Fwitness%2Flifestyle%2Fplanet%2Fkzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217">
+            <img src="https://cdn.24.co.za/files/Cms/General/d/8407/23a1b651dcf346928ef353e5c2eff539.svg" alt="add bookmark" />
+        </a>
+    </div>
+
+</div>
+
+        </div>
+        <h1 class="article__title">
+            KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday
+        </h1>
+        <div class="article--top">
+            <div class="article__details">
+                
+                
+                    <div class="article__accreditation">
+                        <a href="https://www.witness.co.za">
+                            <img src="https://cdn.24.co.za/files/cms/general/d/1/d7c46138d32c46a5811c42ffb492a3c5.jpg" />
+                        </a>
+                    </div>
+                    <div class="article__author">
+                        
+                    </div>
+                
+            </div>
+            <div class="article__social-share">
+                <span>Share</span>
+                
+
+
+    <section class="social-sharing">
+        <div class="social-sharing-container">
+            <ul class="social-control" id="social-legacy">
+                    <li class="social-item facebook">
+                        <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.news24.com%2Fwitness%2Flifestyle%2Fplanet%2Fkzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" rel="noopener noreferrer" data-share="facebook" title="facebook" aria-label="facebook Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/5690ba4019c4401987c3e8d0c26d4041.svg" class="social-item-img" alt="facebook" />
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/intent/tweet?via=witness&amp;text=KZN%27s&#x2B;oldest&#x2B;crocodile&#x2B;%7C&#x2B;Crocworld&#x2B;celebrates&#x2B;Henry&#x2B;the&#x2B;Nile&#x2B;Croc%E2%80%99s&#x2B;120th&#x2B;birthday&amp;url=https%3A%2F%2Fwww.news24.com%2Fwitness%2Flifestyle%2Fplanet%2Fkzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" rel="noopener noreferrer" data-share="twitter" title="twitter" aria-label="twitter Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/1e5d1bfb48cb4c40919790041ca5889a.svg" class="social-item-img" alt="twitter" />
+                        </a>
+                    </li>
+                    <li class="social-item email">
+                        <a href="mailto:?subject=KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday&amp;body=KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday%0A%0Ahttps://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" rel="noopener noreferrer" data-share="email" title="email" aria-label="email Social Share" target="_blank" class="social-item-link action" role="link" data-event-name="article_share">
+                            <img src="https://cdn.24.co.za/files/Cms/General/d/10095/162bc878db9b47d1bed7dca554e5574c.svg" class="social-item-img" alt="email" />
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+            </div>
+        </div>
+        
+
+
+
+        <div class="article-locked">
+            
+            
+<meta name="access" content="true" />
+
+<div class="article__content">
+    
+        <div class="article__featured-image NewsArticle">
+            <img src="https://cdn.24.co.za/files/Cms/General/d/9601/963f91d3a92f439dbd593719c1a9683c.jpg" alt="Henry the oldest known Nile crocodile in captivity." height="533" width="800" class="img-lazy" />
+            
+                <div class="caption">
+                    Henry the oldest known Nile crocodile in captivity.
+                </div>
+            
+            <div class="article__photographer">
+                <div class="photographer">Luke Colls.</div>
+            </div>
+        </div>       
+    
+            <!--Oovvuu Header: Header-->
+        <div id="head-video"></div>
+
+    
+    
+    <div class="article__body">        
+        <p></p><p>It&rsquo;s not every day your neighbourhood crocodile turns 120 years old, and so Crocworld Conservation Centre on the KZN South Coast gave their resident Nile crocodile a reason to smile on Wednesday, 16 December with a fitting birthday bash. </p><div data-ad="true" data-adname="outstream" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[550,309],[632,115]]" data-isfluid="true" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;outstream&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="outstream" class="adblock"></div><p>James Wittstock, the centre&rsquo;s acting manager, said the beloved Henry celebrated this milestone with his favourite meaty dish while Crocworld staff and guests enjoyed a slice of birthday cake. </p><p>Wittstock said Henry, who is a whopping five-metre-long and 700 kilogramme croc, arrived at Crocworld in 1985 at the youthful age of 85, where he went on to father more than 10&nbsp;000 offspring with his six female co-habitants.</p><div data-ad="true" data-adname="fluid" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[1,6],[632,115]]" data-isfluid="true" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;fluid&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="fluid" class="adblock"></div><p><strong>ALSO READ |&nbsp;</strong><a href="https://www.news24.com/witness/news/croc-warning-for-city-20190415" target="_blank"><strong>Croc warning for city</strong></a></p><p>Believed to be the oldest known Nile crocodile in captivity, Henry is looking forward to more years of relaxation and leisure, welcoming the many guests to this wonderful animal sanctuary.</p><p>In 2017, <a href="https://www.oldest.org/animals/crocodiles/" target="_blank">www.oldest.org</a> listed Henry the crocodil as the second oldest crocodile in the world. A crocodile named Mr. Freshie took the number one spot, he was 140-years-old when he died in 2010.</p><div contenteditable="false" data-embed24="Images" data-pos="Middle" id="embed_1733cda9"><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9601/fd88522b93c84aaaacd88f0b0d203d60.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9601/dcfec24941f642bd945e34620f654317.jpg" title=" Henry, Crocworld’s most famous resident."><div class="caption">Henry, Crocworld&rsquo;s most famous resident.</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9602/2ed1eaaea6464d11812985e3cdef116f.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9602/ccb2415407ac4550b58184ff55ba31ab.jpg" title="Crocworld Conservation Centre Reptile Curator, Wade Killian (Greenwood Park), Crocworld Conservation Centre Acting Manager, James Wittstock (Pennington) and Crocworld’s Assistant Manager, Smilo Nyawose (Umzinto)."><div class="caption">Crocworld Conservation Centre Reptile Curator, Wade Killian (Greenwood Park), Crocworld Conservation Centre Acting Manager, James Wittstock (Pennington) and Crocworld&rsquo;s Assistant Manager, Smilo Nyawose (Umzinto).</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9601/c0b9f0cd2c004acfbf0f8fc952552ccd.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9601/cf7bd0ea36b74bdb8a650e5d27eea860.jpg" title="Emihle Yeni."><div class="caption">Emihle Yeni.</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9601/46cef06911f14729bd734f6672f76ab8.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9601/d2e83c514ccb4b43ba60f16fbd74f7c9.jpg" title=" Cancel Crocworld’s Maintenance team, Qaphelani Mkhombe (Amandawe)."><div class="caption">Cancel Crocworld&rsquo;s Maintenance team, Qaphelani Mkhombe (Amandawe).</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9601/38f2f4533e02472faef648cd98362fdc.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9601/743a353e8ddb4b6896a8810cac430179.jpg" title="Crocworld’s Assistant Manager, Smilo Nyawose (Umzinto)."><div class="caption">Crocworld&rsquo;s Assistant Manager, Smilo Nyawose (Umzinto).</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9602/8896b3ff18b6440989e43a0bf163762f.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9602/8a083aa374cf43bcb538ad4c186fcc88.jpg" title="Andile Makhathini."><div class="caption">Andile Makhathini.</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div><div class="slide"><img alt="" data-smallsrc="https://cdn.24.co.za/files/Cms/General/d/9601/59f7ba4df1e14c86b477eeab15a18c6d.jpg" src="https://cdn.24.co.za/files/Cms/General/d/9601/0f9ae53fe46a4b1da825a3b2ac0b700a.jpg" title="Henry’s 120th birthday was celebrated recently."><div class="caption">Henry&rsquo;s 120th birthday was celebrated recently.</div><div class="img_accreditation"><span class="source" style="display:none;"></span><span class="photographer" style="display:none;"></span></div></div></div><p><strong>ALSO READ |&nbsp;</strong><a href="https://www.businessinsider.co.za/crap-wildlife-photography-funny-facebook-bad-animal-photos" target="_blank"><strong>There's an entire Facebook group dedicated to bad wildlife photos. Here are some of the funniest ones</strong></a><br></p><p>In addition to the birthday celebrations, Wittstock said Crocworld has an incredible summer programme of not-to-be-missed sights, sounds and activities, including the new Whale Watching Walkway, Crocodile Feeding Platform, Raptor Wing, and Gourmet Burger Menu at the Fish Eagle Caf&eacute; - among many others. </p><div id='foot-video'></div><p>To find out more about the new happenings at Crocworld Conservation Centre, visit <a href="http://www.crocworld.co.za/">www.crocworld.co.za</a> or &lsquo;Crocworld Conservation Centre&rsquo; on Facebook. Alternatively, contact Crocworld Conservation Centre on 039 976 1103. </p><div id='fourth-par-video'></div><p></p>
+        
+
+    </div>
+    
+    
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="article-subs-footer">
+        <div class="article-subs-footer__header">We live in a world where facts and fiction get blurred</div>
+        <div class="article-subs-footer__desc">In times of uncertainty you need journalism you can
+trust. For only <strong>R75 per month</strong>, you have access to
+a world of in-depth analyses, investigative journalism,
+top opinions and a range of features. Journalism
+strengthens democracy. Invest in the future today.</div>
+        <div class="article-subs-footer__button">
+            <a id="continue-button" class="" href="https://www.news24.com/subscription?utm_source=24.com&amp;utm_medium=article_footer&amp;utm_campaign=subs"
+               data-event-name=""
+               data-event-container="">Subscribe to News24</a>
+        </div>
+    </div>
+
+    
+        <!--Related articles-->
+
+    
+</div>
+<script type="module">
+    import tinyslider from './js/modules/tinyslider.min.js?v=1.1.20344.4';
+    new tinyslider('div[data-embed24="Images"]', 1, 1, 'horizontal', true);
+</script>
+            
+                
+
+    <div class="article--end"></div>
+    <link href="/witness/news/kzn/isimangaliso-wetland-park-sets-covid-19-rules-20201217" rel="preconnect" />
+    <a href="/witness/news/kzn/isimangaliso-wetland-park-sets-covid-19-rules-20201217" class="next-article next-article--url" data-event-container="nextarticle" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="799c325c-7601-49d2-bb53-27c2c358509f" data-event-breadcrumb="witness/lifestyle/planet">
+        <div class="next-article__title">
+            Next on <span>Witness</span>
+        </div>
+        <div class="next-article__info">
+            <div class="next-article__synopsis">
+                <div class="next-article__blurb">
+                    iSimangaliso Wetland Park sets Covid-19 rules
+                </div>
+                <div class="next-article__date">
+                    <p class="article-item__date">17 Dec</p>
+                </div>
+            </div>
+                <div class="next-article__image">
+                    <img data-src="https://cdn.24.co.za/files/Cms/General/d/10751/db951e60c8c947139e82dc8d33193f2c.jpg" alt="iSimangaliso Wetland Park sets Covid-19 rules" class="img-lazy" src="" height="88" width="88" />
+                </div>
+        </div>
+        <div id="closeBtn" class="close-btn"></div>
+        <div class="next-article__next-url"></div>
+    </a>
+    <script type="module">
+        import nextarticle from './js/modules/articles/nextarticle.min.js?v=1.1.20344.4';
+        new nextarticle('.article--end', '.next-article');
+    </script>
+
+            
+            <div class="related-tags"><div class='related-tags__header'>Read more on:</div><a href='/Tags/Companies/crocworld%20conservation%20centre' data-event-name='tag_link' data-event-breadcrumb='/Tags/Companies/crocworld%20conservation%20centre' data-event-container='tags' data-tag='crocworld%20conservation%20centre'>crocworld conservation centre</a><a href='/Tags/Places/south%20coast' data-event-name='tag_link' data-event-breadcrumb='/Tags/Places/south%20coast' data-event-container='tags' data-tag='south%20coast'>south coast</a><a href='/Tags/Places/kzn' data-event-name='tag_link' data-event-breadcrumb='/Tags/Places/kzn' data-event-container='tags' data-tag='kzn'>kzn</a><a href='/Tags/Places/pietermaritzburg' data-event-name='tag_link' data-event-breadcrumb='/Tags/Places/pietermaritzburg' data-event-container='tags' data-tag='pietermaritzburg'>pietermaritzburg</a><a href='/Tags/Places/kwazulu-natal' data-event-name='tag_link' data-event-breadcrumb='/Tags/Places/kwazulu-natal' data-event-container='tags' data-tag='kwazulu-natal'>kwazulu-natal</a><a href='/Tags/Topics/120%20year%20old%20crocodile' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/120%20year%20old%20crocodile' data-event-container='tags' data-tag='120%20year%20old%20crocodile'>120 year old crocodile</a><a href='/Tags/Topics/nature' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/nature' data-event-container='tags' data-tag='nature'>nature</a><a href='/Tags/Topics/crocodile' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/crocodile' data-event-container='tags' data-tag='crocodile'>crocodile</a><a href='/Tags/Topics/wildlife' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/wildlife' data-event-container='tags' data-tag='wildlife'>wildlife</a><a href='/Tags/Topics/henry%20the%20crocodile' data-event-name='tag_link' data-event-breadcrumb='/Tags/Topics/henry%20the%20crocodile' data-event-container='tags' data-tag='henry%20the%20crocodile'>henry the crocodile</a></div>
+            
+            
+                
+
+<!--Outbrain Widget-->
+    <div class="outbrain-articles">
+            <div class='OUTBRAIN' data-src="https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" data-widget-id="AR_5"></div>
+    </div>
+    <link rel="preload" href="//widgets.outbrain.com/outbrain.js" as="script" />
+    <script defer src="//widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+
+            
+        </div>
+</div>
+
+
+<div class="tf-rhs-col">
+    
+
+<!--RHS-->
+<div class="tf-rhs-col--inner">
+<!--MostRead-->
+<link rel="stylesheet" href="/css/tenants/witness/widgets/mostread/index.min.css?v=k-A6asDBj2tWmf-219MJ4KlUlk0XnN5bqGommkgDRP0" />
+
+<div class="most-read-widget">
+        <input id="tab-0" type="radio" name='mostreadtabs' checked data-event-name="widget_tab" data-event-breadcrumb="witness/lifestyle/planet" data-event-tab="Most read" data-event-container="most-read-widget">
+        <label for="tab-0">Most read</label>
+        <input id="tab-1" type="radio" name='mostreadtabs'  data-event-name="widget_tab" data-event-breadcrumb="witness/lifestyle/planet" data-event-tab="For Subscribers" data-event-container="most-read-widget">
+        <label for="tab-1">For Subscribers</label>
+
+        <div id="content-tab-0" class="most-read-widget__tab">
+            <ul>
+                    <li>
+                        <a href="/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217" class="most-read-widget__url" aria-label="KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="0303f62b-46e2-4979-b364-b2c85700bc47" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">KZN&#x27;s oldest crocodile | Crocworld celebrates Henry the Nile Croc&#x2019;s 120th birthday</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/news/durban/durbans-golden-mile-empty-as-beach-bans-start-20201217" class="most-read-widget__url" aria-label="Durban&#x2019;s Golden Mile empty as beach bans start" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="de842fb7-4a4e-4898-b522-06538b198ac1" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Durban&#x2019;s Golden Mile empty as beach bans start</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/news/pietermaritzburg/give-maritzburg-united-r48-million-anc-councillors-urge-sponsorship-review-20201217" class="most-read-widget__url" aria-label="&#x2018;Give Maritzburg United R48 million&#x2019;: ANC councillors urge sponsorship review" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="3d37cc2f-7057-4b1e-850f-3fbe2f2335f6" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">&#x2018;Give Maritzburg United R48 million&#x2019;: ANC councillors urge sponsorship review</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/lifestyle/entertainment/princess-charlene-of-monaco-rocks-modern-new-punk-hairdo-20201217" class="most-read-widget__url" aria-label="Princess Charlene of Monaco rocks modern new &#x27;punk&#x27; hairdo" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="38733a04-371a-4976-95f9-81aa26d3753f" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Princess Charlene of Monaco rocks modern new &#x27;punk&#x27; hairdo</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/news/pietermaritzburg/triple-bishopstowe-murder-suspects-in-court-20201217" class="most-read-widget__url" aria-label="Triple murder suspects in court for Pietermaritzburg farm killings" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="7fab0bde-0b09-4c63-9afe-61edaec7e2dc" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Triple murder suspects in court for Pietermaritzburg farm killings</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div id="content-tab-1" class="most-read-widget__tab">
+            <ul>
+                    <li>
+                        <a href="/news24/southafrica/investigations/killing-kinnear-stalled-threat-probe-left-veteran-cop-without-protection-20201217" class="most-read-widget__url" aria-label="Killing Kinnear: Stalled threat probe left veteran cop without protection" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="18ca4e92-9c14-4ef5-a473-980d8cf24c5a" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Killing Kinnear: Stalled threat probe left veteran cop without protection</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/southafrica/news/lockdown-takes-toll-as-father-left-distraught-after-son-denied-access-to-exams-due-to-non-payment-20201217" class="most-read-widget__url" aria-label="Lockdown takes toll as father left distraught after son denied access to exams due to non-payment" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="9934a577-76bc-455b-bc13-825942220bf5" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Lockdown takes toll as father left distraught after son denied access to exams due to non-payment</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/news24/southafrica/news/analysis-how-the-anc-nec-can-force-magashule-out-and-why-they-cant-20201217" class="most-read-widget__url" aria-label="ANALYSIS | How the ANC NEC can force Magashule out... and why they can&#x27;t" data-event-name="article_link" data-event-articlestate="True" data-event-articleid="d2ea3621-354f-48a8-b4f9-aaa2686f665a" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">ANALYSIS | How the ANC NEC can force Magashule out... and why they can&#x27;t</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/news/pietermaritzburg/give-maritzburg-united-r48-million-anc-councillors-urge-sponsorship-review-20201217" class="most-read-widget__url" aria-label="&#x2018;Give Maritzburg United R48 million&#x2019;: ANC councillors urge sponsorship review" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="3d37cc2f-7057-4b1e-850f-3fbe2f2335f6" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">&#x2018;Give Maritzburg United R48 million&#x2019;: ANC councillors urge sponsorship review</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/witness/news/durban/durbans-golden-mile-empty-as-beach-bans-start-20201217" class="most-read-widget__url" aria-label="Durban&#x2019;s Golden Mile empty as beach bans start" data-event-name="article_link" data-event-articlestate="False" data-event-articleid="de842fb7-4a4e-4898-b522-06538b198ac1" data-event-breadcrumb="witness/lifestyle/planet" data-event-container="most-read-widget">
+                            <span class="most-read-widget__title">Durban&#x2019;s Golden Mile empty as beach bans start</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    <div data-ad="true" data-adname="mostread_widget" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[278,100],[300,50]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;mostread_widget&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mostread_widget" class="adblock"></div>
+</div>
+<!--Adslot : mrec1 / Size: [[300,600],[300,250]]-->
+    <div data-ad="true" data-adname="mrec1" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[300,600],[300,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;mrec1&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mrec1" class="adblock"></div>
+
+
+
+<!-- Vote Widget -->
+
+    <link defer rel="stylesheet" href="/css/tenants/witness/widgets/vote/index.min.css?v=jGoYqmouU3jdSztISFrl343xJTgGdEpTFrDURwmD00g" />
+
+    <div id="vote-widget-a816dfec-0414-4bc8-bebd-8c31ff8622ae" class="vote-widget vote-widget--rhs tf-hidden">
+        <div class="vote-widget__header">
+            Daily Poll
+        </div>
+
+        <div class="vote-widget__question">
+            ANC councillors area urging the City to part with R48 million to be given as sponsorship to the local football team, Maritzburg United. Is this wise given the current state of Msunduzi's finances? (If you have a strong opinion write to letters@witness.co.za and let us know your thoughts.)
+        </div>
+        <span class="vote-widget--alert" id="error">Please select an option</span>
+        <span class="vote-widget--alert" id="postError">Oops! Something went wrong, please try again later.</span>
+        <div class="vote-widget__form tf-show" id="vote">
+            <form role="form" id="form-a816dfec-0414-4bc8-bebd-8c31ff8622ae">
+                <input type="hidden" value="a816dfec-0414-4bc8-bebd-8c31ff8622ae" name="articleId" id="articleId" />
+                    <div class="vote-widget__input">
+                        <input type="radio" name="vote" id="3d38446c-fe85-47da-bec5-be8de1310bea" value="3d38446c-fe85-47da-bec5-be8de1310bea" class="vote-options" />
+                        <label for="3d38446c-fe85-47da-bec5-be8de1310bea">It&#x27;s ludicrous. Our infrastructure is failing on so many levels. Use the money to fix the city for all residents.</label>
+                    </div>
+                    <div class="vote-widget__input">
+                        <input type="radio" name="vote" id="dfe9f581-e5f7-4023-8c71-7128587d32a8" value="dfe9f581-e5f7-4023-8c71-7128587d32a8" class="vote-options" />
+                        <label for="dfe9f581-e5f7-4023-8c71-7128587d32a8">I&#x27;d be happy to see Maritzburg United get the money. They deserve it.</label>
+                    </div>
+                    <div class="vote-widget__input">
+                        <input type="radio" name="vote" id="9d0179ae-fa94-47db-999c-598864cd5792" value="9d0179ae-fa94-47db-999c-598864cd5792" class="vote-options" />
+                        <label for="9d0179ae-fa94-47db-999c-598864cd5792">Can Msunduzi just make up their minds once and for all on this matter?</label>
+                    </div>
+                <div id="voteActionsDiv" class="vote-widget__actions">
+                    <input type="submit" class="vote-btn" value="Vote" id="vote-button" data-event-name="vote_submit" data-event-breadcrumb="witness/lifestyle/planet" data-event-articleid="a816dfec-0414-4bc8-bebd-8c31ff8622ae" data-event-container="vote-widget" data-event-optionid="" />
+                    <buttton class="results-btn" id="showResults" data-event-name="results_link" data-event-breadcrumb="witness/lifestyle/planet" data-event-articleid="a816dfec-0414-4bc8-bebd-8c31ff8622ae" data-event-container="vote-widget">Results</buttton>
+                </div>
+            </form>
+        </div>
+
+        
+
+
+<div class="vote-widget__results" id="results">
+        <div class="result">
+            <div class="result__title">It&#x27;s ludicrous. Our infrastructure is failing on so many levels. Use the money to fix the city for all residents.</div>
+            <div class="result__data">
+                95% - 95 votes
+            </div>
+            <div class="result__bar">
+                <div class="result__bar-percentage" style='width: 95%'></div>
+            </div>
+        </div>
+        <div class="result">
+            <div class="result__title">I&#x27;d be happy to see Maritzburg United get the money. They deserve it.</div>
+            <div class="result__data">
+                2% - 2 votes
+            </div>
+            <div class="result__bar">
+                <div class="result__bar-percentage" style='width: 2%'></div>
+            </div>
+        </div>
+        <div class="result">
+            <div class="result__title">Can Msunduzi just make up their minds once and for all on this matter?</div>
+            <div class="result__data">
+                3% - 3 votes
+            </div>
+            <div class="result__bar">
+                <div class="result__bar-percentage" style='width: 3%'></div>
+            </div>
+        </div>
+
+    
+        <div id="voteResultsActionsDiv" class="vote-widget__actions">
+            <buttton class="vote-btn" id="showVote">Vote</buttton>
+        </div>
+    
+</div>
+
+        <div class="vote-widget__more-links">
+            <a href="/witness/vote" data-event-name="category_link" data-event-articleid="a816dfec-0414-4bc8-bebd-8c31ff8622ae" data-event-breadcrumb="/witness/vote" data-event-container="vote-widget">Previous Results</a>
+        </div>
+    </div>
+
+    <script type="module">
+        import vote from './js/modules/vote.min.js?v=1.1.20344.4';
+        var articleId = document.getElementById('articleId').value;
+        new vote('#vote-widget-' + articleId, articleId, 'vote24_');
+    </script>
+
+<!--Adslot : polar3 / Size: [[333,250]]-->
+    <div data-ad="true" data-adname="polar3" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[333,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;polar3&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="polar3" class="adblock"></div>
+<!--Magazine Subscription-->
+<link defer rel="stylesheet" href="/css/tenants/witness/widgets/magazinesubscription/index.min.css?v=qCna_cHWnk3MdTCxBT7U7X2qMxdPzSjthlJNzxZrT5E" />
+
+<div class="magazine-subscription">
+    <div class="magazine-subscription__title">Latest Issue</div>
+    
+        <p>View the Witness in PDF</p>
+    
+    <div class="magazine-subscription__img"><img data-src="https://scontent.fcpt6-1.fna.fbcdn.net/v/t1.0-9/131621169_5611236368917249_2135607779194660013_o.jpg?_nc_cat=109&amp;ccb=2&amp;_nc_sid=730e14&amp;_nc_eui2=AeEtfGNb1fkDXSoKrpXXXQ7-bx3wVa15z4xvHfBVrXnPjA3EV_rUbS2wR2C5DNjR4FU&amp;_nc_ohc=PrL11uV31AgAX8nbpso&amp;_nc_ht=scontent.fcpt6-1.fna&amp;oh=a43ce334cecfe6826bc2ebdb4a799e3b&amp;oe=5FFF391F" alt="Latest Issue" class="img-lazy" /></div>
+    <div class="magazine-subscription__blurb">Read the latest news from KZN in digital form.</div>
+    <a class="magazine-subscription__btn" href="digitalpublications">Read now</a>
+</div>
+
+<!--Adslot : mrec2 / Size: [[300,600],[300,250]]-->
+    <div data-ad="true" data-adname="mrec2" data-adzone="/8900/24.com/web/witness/lifestyle/planet" data-sizes="[[300,600],[300,250]]" data-isfluid="false" data-outofpage="false" data-targets="{&quot;pagetype&quot;:&quot;article&quot;,&quot;breadcrumb&quot;:&quot;witness/lifestyle/planet&quot;,&quot;Companies&quot;:&quot;crocworld conservation centre&quot;,&quot;Places&quot;:&quot;south coast,kzn,pietermaritzburg,kwazulu-natal&quot;,&quot;Topics&quot;:&quot;120 year old crocodile,nature,crocodile,wildlife,henry the crocodile&quot;,&quot;Prime&quot;:&quot;n&quot;,&quot;accreditation&quot;:&quot;The Witness&quot;,&quot;artid&quot;:&quot;0303f62b-46e2-4979-b364-b2c85700bc47&quot;,&quot;adname&quot;:&quot;mrec2&quot;,&quot;posno&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;Subscribed&quot;:&quot;n&quot;,&quot;Registered&quot;:&quot;n&quot;,&quot;is-lifestyle&quot;:&quot;false&quot;,&quot;section&quot;:&quot;witness/lifestyle/planet&quot;,&quot;live&quot;:&quot;false&quot;,&quot;platform&quot;:&quot;desktop&quot;,&quot;pagename&quot;:&quot;https://www.news24.com/witness/lifestyle/planet/kzns-oldest-crocodile-crocworld-celebrates-henry-the-nile-crocs-120th-birthday-20201217&quot;,&quot;t_ref&quot;:&quot;m24&quot;}" id="mrec2" class="adblock"></div>
+    
+
+
+<!-- RHS Footer-->
+<div class="footer footer--rhs">
+    <div class="footer__app-links">
+        
+            <a href="https://apps.apple.com/us/app/news24-breaking-news-first/id310970460" data-event-container="rhs_footer" data-event-name="external_link">
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/540d50f67e974050a05779215414420a.svg" alt="Apple Store" class="img-lazy" width="150" height="45"/>
+            </a>
+        
+        
+            <a href="https://play.google.com/store/apps/details?id=com.news24.ui.core&amp;hl=en_za" data-event-container="rhs_footer" data-event-name="external_link">
+                <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/2801b8f472f44ad38b9e54ae9b2adfd0.svg" alt="Google Play" class="img-lazy" width="150" height="45"/>
+            </a>
+        
+    </div>
+        <nav class="footer__nav" role="navigation">
+            <ul>
+                    <li class="">
+                        <a href="mailto: george.claassen@media24.com " aria-label="Editorial Complaints" data-event-container="rhs_footer" data-event-name="article_link">Editorial Complaints</a>
+                    </li>
+                    <li class="">
+                        <a href="mailto: tips@news24.com" aria-label="Tip-Offs" data-event-container="rhs_footer" data-event-name="article_link">Tip-Offs</a>
+                    </li>
+                    <li class="">
+                        <a href="./about/press-code-20180917" aria-label="Press Code" data-event-container="rhs_footer" data-event-name="article_link">Press Code</a>
+                    </li>
+                    <li class="">
+                        <a href="http://www.thespacestation.co.za/portfolio/news24/" aria-label="Advertise on News" data-event-container="rhs_footer" data-event-name="article_link">Advertise on News</a>
+                    </li>
+                    <li class="">
+                        <a href="https://media24.simplify.hr/" aria-label="Jobs at 24.com" data-event-container="rhs_footer" data-event-name="article_link">Jobs at 24.com</a>
+                    </li>
+                    <li class="">
+                        <a href="news24/about/about-us-20200520-8" aria-label="About us" data-event-container="rhs_footer" data-event-name="article_link">About us</a>
+                    </li>
+                    <li class="">
+                        <a href="https://www.news24.com/news24/about/frequently-asked-questions-20200121-5" aria-label="FAQs" data-event-container="rhs_footer" data-event-name="article_link">FAQs</a>
+                    </li>
+            </ul>
+        </nav>
+    <div class="footer__copyright">
+        &copy; 2020 (1.1.20344.4) 24.com. All rights reserved.
+            <a href="https://www.24.com/static/privacypolicy.htm" data-event-container="rhs_footer" data-event-name="terms_and_conditions_link">Terms and Conditions</a>
+            <a href="mailto:feedback@news24.com" data-event-container="rhs_footer" data-event-name="contact_us_link" class="footer__contact">Contact Us</a>
+    </div>
+    
+
+    <div class="footer__social">
+        <div class="footer__social-title">Follow:</div>
+        
+
+    <section class="social-links">
+        <div class="social-links-container">
+            <ul class="social-control">
+                    <li class="social-item facebook">
+                        <a href="https://www.facebook.com/witnesskzn/" data-share="facebook" title="Facebook" aria-label="Facebook Social Share" target="_blank" class="social-item-link action" data-event-container="" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="https://cdn.24.co.za/files/Cms/General/d/9458/5cacfcddeb0744fe86bd3899a2a9afe9.png" class="social-item-img" alt="Facebook" width="31" height="31"/>
+                        </a>
+                    </li>
+                    <li class="social-item twitter">
+                        <a href="https://twitter.com/witnesskzn" data-share="twitter" title="Twitter" aria-label="Twitter Social Share" target="_blank" class="social-item-link action" data-event-container="" data-event-name="social_follow" role="link" rel="noopener noreferrer">
+                                <img src="https://cdn.24.co.za/files/Cms/General/d/9458/951100b401d1470f8f5e5ecc23b4dd71.png" class="social-item-img" alt="Twitter" width="31" height="31"/>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+
+    </div>
+
+        <a href="https://www.iabsa.net/" data-event-container="rhs_footer" data-event-name="external_link">
+            <img data-src="https://cdn.24.co.za/files/Cms/General/d/10123/1cc353a874b94ae084ddce852e0894ca.png" alt="Iab Logo" class="footer__third-party img-lazy" width="65" height="35"/>
+        </a>
+</div>
+</div>
+<div class="tf-rhs-col--end"></div>
+
+<script type="module">
+    import stickyrhs from './js/modules/stickyrhs.min.js?v=1.1.20344.4';
+    new stickyrhs('.tf-lhs-col', '.tf-rhs-col--inner', '.tf-rhs-col--end');
+</script>
+
+
+</div>
+
+
+        </div>
+    </div>
+
+    
+    <!--Oovvuu Script View: Web-->
+    <link rel="preload" href="https://cdn.24.co.za/oovvuu/v1.9/ovu_rec.js" as="script" />
+    <script defer src="https://cdn.24.co.za/oovvuu/v1.9/ovu_rec.js" type="text/javascript"></script>
+
+
+    
+        <script>
+        // attach it to the window
+        firebaseConfig = {
+            apiKey : 'AIzaSyBuB7xqx1gX4RZX45kGgGwybifCgKzYa0A',
+            authDomain: 'auth.news24.com',
+            projectId : 'twentyfour-english-live'
+        };
+        </script>
+
+        <!--Scripts: Footer-->
+
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script"></script>
+        <script src="/js/modules/naas.min.js?v=tiNvvICphc2JunbFEgtiWTT8bKaPH4kIp6UnOCbcqgA" type="module"></script>
+        <script src="/js/modules/pwa.min.js?v=ivOBaYiYS90eMgRc7jm1V-EZ9bqgQb4BI_mUAjrw3rA" type="module"></script>
+    
+
+	<script nws-csp-add-nonce='true'>'serviceWorker'in navigator&&navigator.serviceWorker.register('/serviceworker', { scope: '/' })</script></body>
+</html>

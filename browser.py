@@ -3,6 +3,7 @@ import os
 import sys
 import requests
 import shutil
+import textwrap 
 
 from prompts import help_str, bkmk_prompt
 from colorama import init, Fore, Style
@@ -24,15 +25,18 @@ def to_url(command):
 
 def recur_parse(tag, support_tags, level):
     children = list(tag.children)
-    indent = '    ' * level
+    indent = '  ' * level
+    wrapper = textwrap.TextWrapper(initial_indent = indent, subsequent_indent = indent)
     if element.Tag not in [type(item) for item in children]:
         if tag.name == 'strong':
-            print(Fore.WHITE + Style.BRIGHT + indent + tag.get_text(" ", strip=True))
+            print(wrapper.fill(Fore.YELLOW + Style.BRIGHT + tag.get_text(' ', strip=True) + Fore.RESET))
+        elif tag.name == ('h1' or 'h2' or 'h3' or 'h4' or 'h5'):
+            print(wrapper.fill(Fore.GREEN + Style.BRIGHT + tag.get_text(' ', strip=True) + Fore.RESET))
         elif tag.name == 'a':
             if (tag.get_text(" ", strip=True)):
-                print(Fore.BLUE + indent + tag.get_text(" ", strip=True))
+                print(wrapper.fill(Fore.BLUE + tag.get_text(' ', strip=True) + Fore.RESET))
         else:
-            print(Fore.WHITE + Style.DIM + indent + tag.get_text(" ", strip=True))
+            print(wrapper.fill(Fore.WHITE + Style.DIM + tag.get_text(' ', strip=True) + Fore.RESET))
 
     else:
         for child in children:
@@ -42,6 +46,8 @@ def recur_parse(tag, support_tags, level):
                 else:
                     next_level = level + 1
                     recur_parse(child, support_tags, next_level)
+            elif isinstance(child, NavigableString):
+                print(wrapper.fill(Fore.WHITE + Style.DIM + child))
 
 
 def parse_response(response, support_tags):
@@ -80,7 +86,8 @@ def main():
         shutil.rmtree(dir)
 
     support_tags = ['body', 'html', 'div', 'h1', 'h2', 'h3', 'h4', 'h5', 'nobr',
-                    'a', 'span', 'ul', 'ol', 'li', 'link', 'p', 'table', 'td', 'tr', 'strong']
+                    'a', 'span', 'ul', 'ol', 'li', 'link', 'p', 'table', 'td', 
+                    'tr', 'strong', 'article', 'section']
     supported_domains = ['.com', '.org', '.gov', '.net']
     history = []
     commands = ['exit', 'back', 'help', 'history', 'bookmarks']

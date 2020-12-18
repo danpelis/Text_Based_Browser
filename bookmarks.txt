@@ -2,3 +2,4 @@ https://pypi.org
 https://docs.python.org
 https://twitter.com
 https://docs.python.org/3/
+https://docs.python.org/3/tutorial/index.html
